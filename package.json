@@ -1,0 +1,16 @@
+{
+  "name": "app_pwa_list_movie",
+  "version": "1.0.0",
+  "description": "PWA Movie App using TMDb API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
